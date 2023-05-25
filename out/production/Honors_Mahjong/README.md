@@ -1,4 +1,6 @@
-# <자패 마작 게임 제작 보고서>
+# Honors Mahjong
+
+## KNU 2017 1st Semester Java Programming Team Project
 
 ## 1. 소개
 
@@ -342,3 +344,11 @@
  ## 4. 제작 후기
 
 - 프로그램을 직접 작성하다보니 계획했던 것들과 실제로 구현했을 때의 괴리감이 커서 아쉬웠다. 또한 시간에 쫓겨 프로그램을 작성하다 보니 곳곳에 부족한 점이 많이 보였다. 그래도 여러 명이서 함께 프로그램을 짜다보니 혼자서 프로그램을 짤 때 부족했던 부분들을 쉽게 보완할 수 있어서 좋았었던 것 같다.
+
+# 스크린샷
+
+<img src="ScreenShots/GamePlay1.png" alt="GamePlay1" style="zoom:50%;" />
+
+<img src="ScreenShots/GamePlay2.png" alt="GamePlay2" style="zoom:50%;" />
+
+<img src="ScreenShots/GamePlay3.png" alt="GamePlay3" style="zoom:50%;" />
