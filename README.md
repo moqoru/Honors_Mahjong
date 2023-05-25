@@ -1,4 +1,4 @@
-# <Honors Mahjong>
+# Honors Mahjong
 
 ## KNU 2017 1st Semester Java Programming Team Project
 
