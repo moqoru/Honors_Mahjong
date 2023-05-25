@@ -1,17 +1,3 @@
-# Honors Mahjong
-
-## KNU 2017 1st Semester Java Programming Team Project
-
-### 스크린샷
-
-<img src="ScreenShots/GamePlay1.png" alt="GamePlay1" style="zoom:50%;" />
-
-<img src="ScreenShots/GamePlay2.png" alt="GamePlay2" style="zoom:50%;" />
-
-<img src="ScreenShots/GamePlay3.png" alt="GamePlay3" style="zoom:50%;" />
-
-
-
 # <자패 마작 게임 제작 보고서>
 
 ## 1. 소개
