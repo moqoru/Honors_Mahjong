@@ -1,8 +1,6 @@
-# Honors Mahjong
+# <Honors Mahjong>
 
 ## KNU 2017 1st Semester Java Programming Team Project
-
-# <자패 마작 게임 제작 보고서>
 
 ## 1. 소개
 
